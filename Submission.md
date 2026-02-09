@@ -37,11 +37,10 @@ Check for invalid sub total
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
-- GitHub Actions Run URL:
-
+- Did CI pass successfully? (Yes / No) - Yes
+- GitHub Actions Run URL:https://github.com/KirtiGautam620/jest-workshop/actions
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
-
+i understood the concept of testing which helps me in debugging 
